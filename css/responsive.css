@@ -67,4 +67,16 @@
     .col-3 p{
     column-count: 1;
   }
+  
+
 }
+
+
+
+  #navbar nav a.menubar{
+    display:block;
+  }
+
+
+
+
